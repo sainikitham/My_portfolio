@@ -1,0 +1,272 @@
+.navbar{
+  background: white;
+  border: 0;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.col-md-6 img{
+  width: 100%;
+  border-radius: 20px;
+}
+.myimg {
+  border-radius: 50% !important;
+}
+#top{
+  margin-top: 45px;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+.single{
+    width: 20%;
+    padding: 30px;
+    position: relative;
+    margin-left: 50px;
+}
+p{
+  font-size: 18px;
+  color: #6C7A89;
+  text-align: center;
+}
+.top-right{
+  margin-top: 70px;
+}
+.item img{
+  width: 100%;
+}
+.cubes .col-md-4 {
+    width: 29%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+    position: relative;
+}
+.cubes p{
+  font-size: 1em;
+  margin: 10px;
+}
+.material-icons{
+  width: 130px;
+  height: 130px;
+  color: #2980b9;
+  margin-left:190px;
+}
+.client-section{
+  background-color: #F3F3F3;
+  display: block;
+  margin-top: 80px;
+}
+.empty{
+  padding: 20px;
+}
+
+#infoblck{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.late{
+  margin-left: 210px;
+}
+.testimonal{
+  margin: 70px 130px;
+  padding: 30px;
+  background: #F3F3F3;
+  color: black;
+  border-radius: 10px;
+}
+.container-info1{
+  width: 100%;
+}
+.testimonal h4{
+  text-align: center;
+  color: lightgrey;
+}
+.lead{
+  position: relative;
+  color: black;
+  font-weight: 500;
+  font-family: Bradley Hand, cursive;
+}
+.abtme{
+  font-family: Blippo, fantasy;
+  color: #F39C12;
+}
+#info-left img{
+  border-radius: 100%;
+}
+#info1-right{
+  margin-top: 30px;
+}
+#info2{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+#info2 p{
+  font-size: 1.2em;
+}
+#contact{
+  background: url("https://images.unsplash.com/photo-1501959181532-7d2a3c064642?auto=format&fit=crop&w=770&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+  background-position: 30% 100%;
+  padding:10px;
+  margin-top: 12px;
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+}
+form{
+  color: black;
+  font-size: 1.5em;
+}
+
+#contact1 p{
+  font-family: 'Josefin Sans';
+  font-size: 14px;
+  color: #3333CC;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: 1px;
+  margin-top: 10px;
+}
+#contact1 h5{
+  font-family: 'Josefin Sans';
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  color: #A1A1A1;
+  line-height: 1.3;
+  margin: 10px 0 30px 0;
+}
+#contact1{
+  margin: 5px;
+}
+.message-icon{
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+  font-size: 80px;
+}
+.topcontact-left img{
+  margin-top: 10px;
+}
+.topcontact-left a{
+  text-align: center;
+}
+.topcontact-left p{
+  color: grey !important;
+}
+.navbar-brand{
+  font-size: 2em;
+}
+.showcase{
+  background: url('https://40.media.tumblr.com/1b916597d3e174399cb7adadddb66ede/tumblr_nt5uk4psl31ud7rr3o1_1280.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+   text-align: center;
+   color: #22313F;
+}
+.intro-msg{
+    position: absolute;
+    top: 35%;
+    left: 27%;
+    font-size: 4em;
+    font-weight: 400;
+
+}
+.divider {
+
+  width: 122%;
+  left: -5%;
+  position: relative;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.btn-lg{
+margin-left: 0%;
+}
+.marquee{
+    width: 100%;
+    font-size: 3em;
+    color: white;
+    position: relative;
+    margin-top: 45%;
+}
+.sh_1{
+  background: url('https://images.unsplash.com/photo-1498753427761-548428edfa67?auto=format&fit=crop&w=889&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D') no-repeat center center fixed;
+    background-size: cover;
+    height: 800px;
+   text-align: center;
+   color: #22313F;
+}
+.myimg{
+  margin-top: 103%;
+  max-width: 200% !important;
+  width: 160% !important;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.about_message{
+  margin-top: 20%;
+}
+.sh_2{
+  background: url('https://68.media.tumblr.com/d3fd545cd977a174beef12c1106880bf/tumblr_nt505iKkul1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 1110px;
+ text-align: center;
+ color: #22313F;
+}
+#shows{
+  position: relative;
+  margin-top: -120px;
+}
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.mail-id{
+  display: none;
+}
+.w3-clr{
+    color: black;
+    background: beige;
+        padding: 4% !important;
+}
